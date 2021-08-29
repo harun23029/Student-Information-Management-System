@@ -1,0 +1,11 @@
+Option 4#EEE-42XX#3.0#
+Option 5#EEE-42XX#3.0#
+Option 6#EEE-42XX#3.0#
+Option 6 Lab#EEE-42XX#1.5#
+Option 7#EEE-42XX#3.0#
+Interdisciplinary Optional#EEE-42XX#3.0#
+Interdisciplinary Optional Lab#EEE-42XX#1.5#
+Bangladesh Studies / Professional Ethics#GED-4201#3.0#
+project 2#EEE-4200#3.0#
+
+

@@ -1,0 +1,8 @@
+Electrical Circuit Analysis II#EEE-1201#3.0#
+Electrical Circuit Laboratory#EEE-1202#1.5#
+lectrical Circuit Simulation Laboratory#EEE-1204#1.5#
+Optics, Modern Physics, Wave and Oscillations#PHY-1201#3.0#
+Physics Lab#PHY-1202#1.5#
+Linear Algebra#MAT-1201#3.0#
+Chemistry#CHE-1201#3.0#
+Chemistry Lab#CHE-1202#1.5#

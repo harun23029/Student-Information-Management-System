@@ -1,0 +1,8 @@
+Intelligent Systems and Robotics#RME-3101#3.0#
+Manufacturing Process with CNC Programming#RME-3202#3.0#
+Power Electronics and Drives#RME-3203#3.0#
+Control Systems Design#RME-3204#3.0#
+Bangladesh Studies#RME-3205#2.0#
+Intelligent Systems and Robotics Lab#RME-3111#1.5#
+Manufacturing Process with CNC Programming Lab#RME-3212#1.5#
+Power Electronics and Drives Lab#RME-3213#1.5#

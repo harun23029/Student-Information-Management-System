@@ -1,0 +1,12 @@
+Distributed Systems#CSE-601#1.0#
+Distributed Systems Lab#CSE-601#2.0#
+Software Metrics#SE-611#2.0#
+Software Metrics Lab#SE-611#1.0#
+Software Security#SE-612#2.0#
+Software Security Lab#SE-612#1.0#
+Artificial Intilligence#CSE-604#2.0#
+Artificial Intilligence Lab#CSE-604#1.0#
+Software Testing and Quality Assurance#SE-605#2.0#
+Software Testing and Quality Assurance Lab#SE-605#1.0#
+Software Design and Analysis#SE-606#2.0#
+Software Design and Analysis Lab#SE-606#1.0#

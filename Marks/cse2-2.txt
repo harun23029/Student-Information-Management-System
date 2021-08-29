@@ -1,0 +1,9 @@
+Database Management Systems-1#CSE-2201#3.0#
+Design and Analysis of Algorithms -1#CSE-2202#3.0#
+Data and Telecommunication#CSE-2203#3.0#
+Computer Architecture and Orgagnigation#EEE-2204#3.0#
+Introduction to Mechatronics#CSE-2205#2.0#
+Database Management Systems-1 Lab#CSE-2211#1.5#
+Design and Analysis of Algorithms -1 Lab#CSE-2212#1.5#
+Data and Telecommunication Lab#CSE-2213#0.75#
+Application Devolopment Lab#CSE-2216#1.5#

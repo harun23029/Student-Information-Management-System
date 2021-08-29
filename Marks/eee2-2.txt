@@ -1,0 +1,9 @@
+Analog Electronics 2#EEE-2201#3.0#
+Analog Electronics Lab#EEE-2202#1.5#
+Electromechanical Energy Conversion II#EEE-2203#3.0#
+Electromechanical Energy Conversion II Lab#EEE-2204#1.5#
+Fundamentals of Economics#GED-2201#3.0#
+Statistics and Probability#STA-2201#3.0#
+Fundamentals of Mechanical Engineering#ME-2201#3.0#
+Fundamentals of Mechanical Engineering Lab#ME-2202#1.5#
+

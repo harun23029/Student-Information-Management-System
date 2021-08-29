@@ -1,0 +1,8 @@
+Data Structure and Algorithms#CSE-2101#3.0#
+Object Oriented Programing#CSE-2102#3.0#
+Electronic Devices and Circuits#EEE-2103#3.0#
+Bangladesh Studies#BAN-2104#2.0#
+Linear Algebra#MATH-2105#3.0#
+Data Structure and Algorithms Lab#CSE-2211#1.5#
+Object Oriented Programing Lab#CSE-2112#1.5#
+Electronic Devices and Circuits Lab#EEE-2113#1.5#

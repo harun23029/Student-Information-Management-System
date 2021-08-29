@@ -1,0 +1,8 @@
+Power System 1#EEE-3201#3.0#
+Power System Lab#EEE-3202#1.5#
+Digital Signal Processing#EEE-3203#3.0#
+Digital Signal Processing  Laboratory#EEE-3204#1.5#
+Electrical Services Design and Drafting#EEE-3205#3.0#
+Option 1#EEE-32XX#3.0#
+Financial Accounting and Cost Management#GED-3201#3.0#
+Industrial Management#IPE-3201#3.0#

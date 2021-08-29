@@ -1,0 +1,8 @@
+Physics 2#NE-1201#3.0#
+Fundamentals of Nuclear Physics#NE-1203#3.0#
+Differential and Integral Calculus#NE-1205#3.0#
+General and Radiochemistry#NE-1207#3.0#
+Computer Programing 2#NE-1209#3.0#
+Sociology and Engineering Ethics#NE-1211#3.0#
+Physics Lab#NE-1202#1.5#
+General and Radiochemistry#NE-1204#1.5#

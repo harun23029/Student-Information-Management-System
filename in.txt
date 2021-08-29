@@ -1,0 +1,10 @@
+10003#Golam Mourshid Antor#Unknown#Male#27-4-1998#Computer Science and Engineering#2nd Year#1st Semester#Kustia.#0182123234#golammourshid@gmail.com##
+10004#Abu Musa Biswas#Abdur Rashid Biswas#Male#19-12-1998#Computer Science and Engineering#2nd Year#1st Semester#Magura.#01751345235#rofsanjamimusa420@gmail.com#He is a very decent guy.#
+10011#Hossain Safwan#Unknown#Male#12-11-1998#Computer Science and Engineering#2nd Year#1st Semester#Sylhet#017456283#safwan997@gmail.com##
+10007#Robiul Islam Rony#Rofiqul Islam#Male#4-4-1998#Electric and Electrical Engineering#2nd Year#1st Semester#Amar Ekhushey Hall#01521652655#ronydu@hotmail.com##
+10001#Harun-or-Rashid#Abdur Rashid Biswas#Male#19-12-1998#Computer Science and Engineering#2nd Year#1st Semester#Dhaka#01871445680#harunducse23rd@gmail.com##
+10002#Alamin Hossan#Islam Molla#Male#12-2-1998#Computer Science and Engineering#1st Year#2nd Semester#FH Hall.#01772127612#alaminhossan@gmail.com##
+10006#Kaychar Hamin Sahin#Md. Kayem Biswas#Male#25-3-1997#Electric and Electrical Engineering#3rd Year#1st Semester#Magura.#01812612736#kaycherhamid@gmail.com##
+10005#Bappy Khan#Mojnu Khan#Male#12-11-1997#Electric and Electrical Engineering#3rd Year#1st Semester#Magura.#01731566597#cmbappykhan@gmail.com##
+10012#Rayhan Robi#Mia Majedul Haq#Male#14-1-1996#Electric and Electrical Engineering#4th Year#1st Semester#Magura.#01812121212#rayhanrobi@yahoo.com##
+10013#Al Rabby Biswas#Md.Joyen Uddin Biswas#Male#20-11-1998#Software Engineering#1st Year#1st Semester#Kazipara,Dhaka.#01746142122#rabby420@gmail.com##

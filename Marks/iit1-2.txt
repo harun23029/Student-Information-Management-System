@@ -1,0 +1,9 @@
+Data Structured and Algorithms#CSE-201#1.0#
+Data Structured and Algorithms Lab#CSE-201#2.0#
+Computer Organization#CSE-211#2.0#
+Computer Organization Lab#CSE-211#1.0#
+Probability and Statistics for Engineers-2#STAT-203#3.0#
+Ordinary Differential Equations#MATH-204#3.0#
+Bangladesh Studies#GE-212#3.0#
+Object Oriented Concepts-1#SE-206#2.0#
+Object Oriented Concepts-1 Lab#SE-206#1.0#

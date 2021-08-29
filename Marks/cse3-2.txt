@@ -1,0 +1,9 @@
+Operating Systems#CSE-3201#3.0#
+Numerical Methods#CSE-3202#3.0#
+Design and Analisis of Algorithms-2#CSE-3203#3.0#
+Formal Language,Automata and Computiability#CSE-3204#3.0#
+Introduction to Probability and Statistics#STAT-3205#3.0#
+Operating Systems Lab#CSE-3211#1.5#
+Numerical Methods Lab#CSE-3212#0.75#
+Software Design Patterns Lab#CSE-3216#1.5#
+Technical Writing and Presentation Lab#ENG-3217#

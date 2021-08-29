@@ -1,0 +1,9 @@
+Advanced Robotics#RME-4101#3.0#
+Digital Image Processing and Robot Vision#RME-4102#3.0#
+Digital signak processing#RME-4103#3.0#
+Mechanical Power Transmission Systems#RME-4104#3.0#
+Advanced Robotics Lab#RME-4111#1.5#
+Digital Image Processing and Robot Vision Lab#RME-4112#1.5#
+Digital signak processing Lab#RME-4113#1.5#
+Research Methodology, Technical and Scientific Writing Lab#RME-4115#1.5#
+Project#RME-4100#2.0#

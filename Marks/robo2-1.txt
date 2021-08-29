@@ -1,0 +1,8 @@
+Instrumentation and Measurement#RME-2101#3.0#
+Digital Logic Circuit and Microprocessor#RME-2102#3.0#
+Engineering Mechanics#RME-2103#3.0#
+Multivariate and Vector Calculus#RME-2104#3.0#
+Managerial and Engineering Economics#RME-2105#3.0#
+Society and Technology#RME-2106#3.0#
+Instrumentation and measurement Lab#RME-2111#1.5#
+Digital Logic Circuit and Microprocessor Lab#RME-2112#1.5#

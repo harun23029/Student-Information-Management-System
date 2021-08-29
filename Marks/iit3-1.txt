@@ -1,0 +1,11 @@
+Professional Ethics for Information Systems#SE-511#2.0#
+Professional Ethics for Information Systems Lab#SE-511#1.0#
+Web Technology#CSE-502#1.0#
+Web Technology#CSE-502#2.0#
+Business Communications#BUS-503#2.0#
+Business Communications#BUS-503#1.0#
+Database Management System II#CSE-504#1.0#
+Database Management System II#CSE-504#2.0#
+Software project Lab-2#SE-505#3.0#
+Design Patterns#SE-506#2.0#
+Design Patterns#SE-506#1.0#

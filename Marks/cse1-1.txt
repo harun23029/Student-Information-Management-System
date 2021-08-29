@@ -1,0 +1,7 @@
+Fundamentals of Computers and Computing#CSE-1101#2.0#
+Discrete Mathematics#CSE-1102#3.0#
+Electrical Circuits#EEE-1103#3.0#
+Physics#PHY-1104#3.0#
+Differential and Integral Calculus#MATH-1105#3.0#
+Fundamentals of Computer and Computing Lab#CSE-1111#1.5#
+Electrical Circuits Lab#EEE-1113#3.0#

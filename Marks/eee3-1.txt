@@ -1,0 +1,8 @@
+Electromagnetic Theory#EEE-3101#3.0#
+Numerical Technique Laboratory#EEE-3102#1.5#
+Microprocessor and Interfacing#EEE-3103#3.0#
+Microprocessor and Interfacing Laboratory#EEE-3104#1.5#
+Communication Theory#EEE-3105#3.0#
+Communication Lab#EEE-3106#1.5#
+Signal System#EEE-3107#3.0#
+Electronic Device#EEE-3109#3.0#

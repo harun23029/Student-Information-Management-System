@@ -1,0 +1,11 @@
+Operating System and System Programming#CSE-401#2.0#
+Operating System and System Programming Lab#CSE-401#1.0#
+Business Psychology#GE-402#2.0#
+Business Psychology#GE-402#1.0#
+Information Security#CSE-411#2.0#
+Information Security#CSE-411#1.0#
+Database Management System-1#CSE-404#2.0#
+Database Management System-1#CSE-404#1.0#
+Business Studies for Engineers#BUS-405#3.0#
+Software Requirements Specification and Analysis#SE-406#2.0#
+Software Requirements Specification and Analysis#SE-406#1.0#

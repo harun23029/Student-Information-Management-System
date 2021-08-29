@@ -1,0 +1,8 @@
+Electrical Circuit Analysis 1#EEE-1101#3.0#
+Computer Programing#CSE-1101#3.0#
+Computer Programing Lab#CSE-1102#1.5#
+Electricity and Magenetism#PHY-1101#3.0#
+Physics Lab#PHY-1102#1.5#
+Differential and Intregal Calculus#MAT-1101#3.0#
+Vector Analysis#MAT-1103#3.0#
+Computer aided Enginnering Drawing#EEE-1102#1.5#

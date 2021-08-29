@@ -1,0 +1,7 @@
+Analog Electronics I#EEE-2101#3.0#
+Electronic Circuit Simulation Laboratory#EEE-2102#1.5#
+Digital Electronics#EEE-2103#3.0#
+Digital Electronics Lab#EEE-2104#1.5#
+Physical Electronics and Semiconductor Theory#EEE-2107#3.0#
+Differential Equations#MAT-2101#3.0#
+English for Technical Communication#GED-2103#3.0#

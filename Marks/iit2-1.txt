@@ -1,0 +1,11 @@
+Combinational Optimizations#CSE-301#2.0#
+Combinational Optimizations Lab#CSE-301#1.0#
+Theory of Computing#SE-312#2.0#
+Theory of Computing#SE-312#1.0#
+Computer Networking#CSE-311#2.0#
+Computer Networking#CSE-311#1.0#
+Numerical Analysis for Engineers#MATH-304#2.0#
+Numerical Analysis for Engineers#MATH-304#1.0#
+Software Project Lab-1#SE-305#3.0#
+Object Oriented Concepts-2#SE-306#2.0#
+Object Oriented Concepts-2 Lab#SE-306#1.0#

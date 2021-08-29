@@ -1,0 +1,9 @@
+Power Electronics#EEE-4101#3.0#
+Power Electronics Lab#EEE-4102#1.5#
+Control System 1#EEE-4103#3.0#
+Control System Lab#EEE-4104#1.5#
+Material science#EEE-4105#3.0#
+Option 2#EEE-41XX#3.0#
+Option 3#EEE-41XX#3.0#
+Option 3 lab#EEE-41XX#1.5#
+Project#EEE-4100#3.0#

@@ -1,0 +1,9 @@
+Introduction to Robotics#RME-2201#3.0#
+Microcontroller and Programmable Logic Controller#RME-2202#3.0#
+Object Oriented Programing#RME-2203#3.0#
+Electrical Mechanics#RME-2204#3.0#
+Differential Equations and Coordinate Geometry#RME-2205#3.0#
+Statistics for Enginners#RME-2206#3.0#
+Robotics LAb#RME-2211#1.5#
+Microcontroller and Programmable Logic Controller Lab#RME-2212#1.5#
+Object Oriented Programming Lab#RME-2213#1.5#

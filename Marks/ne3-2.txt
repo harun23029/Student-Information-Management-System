@@ -1,0 +1,9 @@
+Nuclear Electronics, Instrumentation and Measurement#NE-3201#3.0#
+Electrical Power Transmission and Distributions#NE-3203#3.0#
+Management in Engineering#NE-3205#3.0#
+Automation and Control Engineering#NE-3207#3.0#
+Biomedical Applications of Nuclear Technology#NE-3209#3.0#
+Nuclear Electronics, Instrumentation and Measurement Lab#NE-3202#1.5#
+Virtual Instrumentation Modeling and Simulation/MATLAB and LabVIEW#NE-3204#1.5#
+Nuclear Power System Design Project#NE-3206#1.5#
+Industrial training#NE-3208#1.5#

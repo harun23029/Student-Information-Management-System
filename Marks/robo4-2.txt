@@ -1,0 +1,6 @@
+Human Robot Interaction#RME-4201#3.0#
+Option 1#RME-422X#3.0#
+Option 2#RME-422X#3.0#
+Human Robot Interaction Lab#RME-4211#1.5#
+Option 1 Lab#RME-423X#1.5#
+Project#RME-4200#4.0#

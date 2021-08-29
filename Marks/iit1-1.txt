@@ -1,0 +1,8 @@
+Structured Programing#CSE-101#1.0#
+Structured Programing Lab#CSE-101#2.0#
+Discrete Mathmatics#CSE-102#3.0#
+Probability and Statistics for Engineers#STAT-103#3.0#
+Calculus and Analytical Geometry#MATH-104#3.0#
+Sociology#GE-105#2.0#
+Sociology Lab#GE-105#1.0#
+Introduction to Sofware Engineering#SE-106#3.0#

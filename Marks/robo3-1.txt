@@ -1,0 +1,8 @@
+Artificial Intelligence#RME-3101#3.0#
+Advanced Mechatronics Enigineering#RME-3102#3.0#
+Mechanics of Solids and Fluids#RME-3103#3.0#
+Mathematical Analysis for Engineers#RME-3104#3.0#
+Industrial Management#RME-3105#3.0#
+Artificial Intelligence Lab#RME-3111#1.5#
+Advanced Mechatronics Enigineering Lab#RME-3112#1.5#
+Mechanics of Solids and Fluids Lab#RME-3113#1.5#

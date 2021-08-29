@@ -1,0 +1,9 @@
+Computer Networking#CSE-3101#3.0#
+Software Engineering#CSE-3102#3.0#
+Microprocessor and Microcontrolar#CSE-3103#3.0#
+Database Management Systems 2#CSE-3104#3.0#
+Multivariable Calculas and Geometry#MATH-2105#3.0#
+Computer Networking Lab#CSE-3111#1.5#
+Software Engineering Lab#CSE-3112#0.75#
+Microprocessor and Assembly Language Lab#CSE-3113#1.5#
+Microcontrolar Lab#CSE-3116#.75#

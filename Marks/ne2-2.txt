@@ -1,0 +1,8 @@
+Electronics1#NE-2201##3.0#
+Radiation Science and Health#NE-2203#3.0#
+Vector analysis#NE-2205#3.0#
+Statistics for Engineers#NE-2209#3.0#
+Nuclear Fuel Cycle and Radioactive Waste Management#NE-2209#3.0#
+Economics#NE-2211#3.0#
+Electronics – I (Analog Electronics) Lab#NE-2202#1.5#
+Radiation Sciences and Health Physics Lab#NE-2204#1.5#

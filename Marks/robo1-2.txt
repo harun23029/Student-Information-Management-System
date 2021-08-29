@@ -1,0 +1,9 @@
+Fundamentals of Mechatronics Engineering#RME-1201#3.0#
+Fundamentals of Electrical and Electronics Engineering#RME-1202#3.0#
+Fundamental of Programing#RME-1203#3.0#
+Linear Algebra#RME-1204#3.0#
+Accounting#RME-1205#3.0#
+Functional Enlish#RME-1206#2.0#
+Fundamentals of Mechatronics Engineering Lab#RME-1211#1.5#
+Fundamentals of Electrical and Electronics Engineering Lab#RME-1212#1.5#
+Fundamental of Programing Lab#RME-1213#1.5#

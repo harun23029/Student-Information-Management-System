@@ -1,0 +1,8 @@
+Fundamentals of Electrical Engineering#NE-2101#3.0#
+Ordinary and Partial Differential Equations#NE-1203#3.0#
+Applications to Thermal Engineering#NE-2105#3.0#
+Elements in Fluid Mechanics and Machinery#NE-2107#3.0#
+Reactor Theory and Analysis#NE-2109#3.0#
+Accounting#NE-2111#3.0#
+Fundamentals of Electrical Engineering Lab#NE-2102#1.5#
+Applications to Thermal Engineering Lab#NE-2104#1.5#

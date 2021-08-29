@@ -1,0 +1,9 @@
+Electronics – II (Digital & Microprocessor)#NE-3101#3.0#
+Materials Science for Nuclear Applications#NE-3103#3.0#
+Thermal Hydraulics and Reactor Safety#NE-3105#3.0#
+Complex Variables, Laplace Transformations, and Fourier Transformations#NE-3107#3.0#
+Numerical Methods in Reactor Engineering Analysis#NE-3109#3.0#
+Engineering Mechanics#NE-3111#3.0#
+Foreign Language (Russian/French/German)#NE-3113#3.0#
+Electronics-II (Digital + Microprocessor) Lab#NE-3102#1.5#
+Thermal Hydraulics and Reactor Safety Lab#NE-3104#1.5#
